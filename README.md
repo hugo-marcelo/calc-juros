@@ -1,6 +1,6 @@
 # calc-juros
 
-## 💇🏻‍♂️ Sobre o projeto
+## 💼 Sobre o projeto
 
 API1 desenvolvida com uma funcionalidade:
 - Endpoint /taxaJuros: Retornar a taxa de juros fixa no código.
